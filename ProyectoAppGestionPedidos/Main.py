@@ -1,3 +1,4 @@
-import index
+from Controlador import ControladorDAOVentanas
 
-index.abrirIndex() 
+
+ControladorDAOVentanas.abrirIndex()
